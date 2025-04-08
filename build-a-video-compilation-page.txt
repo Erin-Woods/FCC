@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+<main>
+<h1>Common House Pets</h1> 
+<p>There are many pets that people have as housepets, but what are the top 3 most poppular.</p>
+<section>
+<h2> Dogs</h2>
+<p>Taking the top spot for most poppular housepet is dogs.</p>
+<iframe
+src="https://www.youtube.com/watch?v=LpVbcFML0No" 
+title= "funny dogs"
+  			width="560"
+  			height="315"
+ 			allowfullscreen
+></iframe>
+</section>
+<section>
+<h2>Cats</h2>
+<p>Spot number 2 goes to cats.</p>
+<iframe
+src="https://www.youtube.com/watch?v=hQ6TGd_oVJM" 
+title= "funny cats"
+  			width="560"
+  			height="315"
+ 			allowfullscreen
+></iframe>
+</section>
+<section>
+<h2>Fish</h2>
+<p>The final spot finishing out top 3 most common house pets goes to Fish.</p>
+<iframe
+src="https://www.youtube.com/watch?v=HX4YvgI0pm4" 
+title= "fish tank"
+  			width="560"
+  			height="315"
+ 			allowfullscreen
+></iframe>
+</section>
+</main>
+</body>
+
+</html>
